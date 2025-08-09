@@ -1,0 +1,36 @@
+# Binaries and build output
+bin/
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binaries and coverage
+*.test
+coverage.out
+*.out
+
+# Dependency cache / module download cache (optional)
+pkg/
+pkg/mod/
+
+# Vendor (optional - track vendor/ if you want reproducible builds)
+vendor/
+
+# IDE / editor settings
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local env & logs
+*.log
+.env
+
+# Temporary files
+*.swp
