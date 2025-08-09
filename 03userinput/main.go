@@ -1,4 +1,4 @@
-// here, we learn about -> comma ok syntax ,error ok syntax
+//here, we learn about -> comma ok syntax ,error ok syntax
 //taking user input
 //bufio package , os package
 
