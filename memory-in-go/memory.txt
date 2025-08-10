@@ -1,0 +1,13 @@
+memory management in golang
+
+new() 
+-allocates memorybut no INIT
+-you will get memory address
+-zeroed storage
+
+make()
+-allocate memory with INIT  
+-you will get memory address
+-non zeroed storage
+
+GC(garbage colllector) happens automatically
